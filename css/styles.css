@@ -1,0 +1,100 @@
+body{
+  margin:0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin-top:0px;
+  font-family: 'Sacramento',cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+  background-color: #002B5B;
+  color: #E8F9FD;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+height: 2000px;
+}
+
+.bottom-container{
+height: 600px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.skill-row{
+  position: relative;
+}
+
+
+.technical-skills{
+  width:200px;
+  height: 200px;
+  background-color: #E8F9FD;
+  position: absolute;
+  right: 800px;
+  border-style: ridge;
+  text-align: left;
+}
+
+
+.curriculum-skills{
+  width:200px;
+  height: 200px;
+  background-color: #E8F9FD;
+  position: absolute;
+  right:600px;
+  border-style: ridge;
+  text-align: left;
+}
+
+.Interest{
+  width:200px;
+  height: 200px;
+  background-color: #E8F9FD;
+  position: absolute;
+  right: 400px;
+  border-style: ridge;
+  text-align: left;
+
+}
+
+.other-skills{
+  height: 175px;
+  width: 600px;
+  background-color: #E8F9FD;
+  position: absolute;
+  top: 225px;
+  left: 345px;
+  border-style: ridge;
+  text-align: left;
+}
+.tech{
+  text-align: center;
+}
